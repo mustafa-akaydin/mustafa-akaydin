@@ -16,8 +16,10 @@
         <p>• 📫 How to reach me: <b><a href="mailto:akaydinmustafa5@gmail.com">akaydinmustafa5@gmail.com</a></b></p>
         <p>• 🌐 My Portfolio: <b><a href="https://mustafa-akaydin.github.io/portfolio/">https://mustafa-akaydin.github.io/portfolio/</a></b></p>
 </div>
+<br>
 
 ---
+
 <h2 align="left">📈 Profil Details</h2>
 <div align="left">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mustafa-akaydin&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
