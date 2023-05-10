@@ -37,7 +37,6 @@
     <a href="https://"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="REACT.JS"></a>
     <br>
 </div>
-<br>
 
 ---
 
@@ -47,7 +46,6 @@
     <a href="https://"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="GITHUB"></a>
 </div>
-<br>
 
 ---
 
@@ -58,7 +56,6 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
-<br>
 
 ---
 
