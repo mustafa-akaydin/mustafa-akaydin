@@ -1,7 +1,8 @@
+<h1 align="center">Hi <img src="./img/waving.gif" style="width:30px;"  />, I'm Mustafa Akaydın</h1>
+<h3 align="center"><strong>Jr. Software Engineer</strong></h3>
+<br>
 <img align="right" style="width:370px;" src="./img/a.gif" alt="Illustration" width=200px/> 
     
-<h1 align="left">Hi <img src="./img/waving.gif" style="width:30px;"  />, I'm Mustafa Akaydın</h1>
-
 <h3 align="left">I am a fresh software engineer. I am developing myself in the field of web developer. 
     <br>
     <b>I have a passion for programming and tecnology!</b> 🚀
