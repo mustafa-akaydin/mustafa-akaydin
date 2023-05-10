@@ -1,8 +1,11 @@
-<img align="right" style="margin-top:60px" src="./img/a.gif" alt="Illustration" width=250/> 
+<img align="right" style="width:370px;" src="./img/a.gif" alt="Illustration" width=200px/> 
     
-<h1 align="left">Hi <img src="./img/waving.gif"  width=30/>, I'm Mustafa Akaydın</h1>
+<h1 align="left">Hi <img src="./img/waving.gif" style="width:30px;"  />, I'm Mustafa Akaydın</h1>
 
-<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
+<h3 align="left">I am a fresh software engineer. I am developing myself in the field of web developer. 
+    <br>
+    <b>I have a passion for programming and tecnology!</b> 🚀
+</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
