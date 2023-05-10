@@ -14,7 +14,7 @@
         <p>• 💬<b>I love technology and learning new things</b></p>
         <p>• 📫 How to reach me: <b><a href="mailto:akaydinmustafa5@gmail.com">akaydinmustafa5@gmail.com</a></b></p>
         <p>• 🌐 My Portfolio: <b><a href="https://mustafa-akaydin.github.io/portfolio/">https://mustafa-akaydin.github.io/portfolio/</a></b></p>
-</div><br><br>
+</div>
 
 ---
 <h2 align="left">📈 Profil Details</h2>
