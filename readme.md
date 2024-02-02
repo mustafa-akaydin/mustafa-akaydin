@@ -3,7 +3,7 @@
 <br>
 <img align="right" style="width:370px;" src="./img/a.gif" alt="Illustration" width=200px/> 
     
-<h3 align="left">I am a fresh software engineer. I am developing myself in the field of web developer. 
+<h3 align="left">I am a software engineer. I am developing myself in the field of web developer. 
     <br>
     <b>I have a passion for programming and tecnology!</b> 🚀
 </h3>
