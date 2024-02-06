@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="./img/waving.gif" style="width:30px;"  />, I'm Mustafa Akaydın</h1>
+<h1 align="center">Hi 👋🏻, I'm Mustafa Akaydın</h1>
 <h3 align="center"><strong>Jr. Software Engineer</strong></h3>
 <br>
-<img align="right" style="width:370px;" src="./img/a.gif" alt="Illustration" width=200px/> 
+<img align="right" top="500"  height="400" width="400" alt="GIF" src="./img/a.gif" alt="Illustration" style="border-radius: 30px;"/> 
     
 <h3 align="left">I am a software engineer. I am developing myself in the field of web developer. 
     <br>
@@ -13,7 +13,7 @@
         <p>• 📚 I’m currently learning: <b>My goal is to be a senior web developer in the long term.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | Football ⚽</b></p>
         <p>• 💬<b>I love technology and learning new things</b></p>
-        <p>• 📫 How to reach me: <b><a href="mailto:akaydnmustafa@gmail.com">akaydnmustafa@gmail.com</a></b></p>
+        <p>• 📫 How to reach me: <b><a href="mailto:akaydinmustafa5@gmail.com">akaydnmustafa@gmail.com</a></b></p>
         <p>• 🌐 My Portfolio: <b><a href="https://mustafa-akaydin.github.io/portfolio/">https://mustafa-akaydin.github.io/portfolio/</a></b></p>
 </div>
 <br>
@@ -22,7 +22,6 @@
 
 <h2 align="left">📈 Profil Details</h2>
 <div align="left">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mustafa-akaydin&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-akaydin&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="mustafa-akaydin" />
 </div>
 
