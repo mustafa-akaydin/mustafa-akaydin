@@ -13,7 +13,7 @@
         <p>• 📚 I’m currently learning: <b>My goal is to be a senior web developer in the long term.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | Football ⚽</b></p>
         <p>• 💬<b>I love technology and learning new things</b></p>
-        <p>• 📫 How to reach me: <b><a href="mailto:akaydinmustafa5@gmail.com">akaydinmustafa5@gmail.com</a></b></p>
+        <p>• 📫 How to reach me: <b><a href="mailto:akaydnmustafa@gmail.com">akaydnmustafa@gmail.com</a></b></p>
         <p>• 🌐 My Portfolio: <b><a href="https://mustafa-akaydin.github.io/portfolio/">https://mustafa-akaydin.github.io/portfolio/</a></b></p>
 </div>
 <br>
