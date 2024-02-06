@@ -34,7 +34,6 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
     <a href="https://"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="SASS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
-    <a href="https://"><img src="https://camo.githubusercontent.com/0461c95b6c3716b16477ee709148006546bf849be66ef1e4fa373d2119dff412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" alt="Angular"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="REACT.JS"></a>
     <br>
