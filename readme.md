@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Mustafa Akaydın</h1>
 <h3 align="center"><strong>Jr. Software Engineer</strong></h3>
 <br>
-<img align="right" top="500"  height="400" width="400" alt="GIF" src="./img/a.gif" alt="Illustration" style="border-radius: 30px;"/> 
+<img align="right" top="500"  height="350" width="400" alt="GIF" src="./img/a.gif" alt="Illustration" style="border-radius: 30px;"/> 
     
 <h3 align="left">I am a software engineer. I am developing myself in the field of web developer. 
     <br>
